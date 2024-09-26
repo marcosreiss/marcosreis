@@ -1115,6 +1115,7 @@ a, a:hover {
 
 .unslate_co--section {
   padding: 3.5rem 0;
+  overflow: hidden;
 }
 
 @media (max-width: 767.98px) {
