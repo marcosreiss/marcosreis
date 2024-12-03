@@ -1,8 +1,7 @@
-Thank you for using our template!
+# Meu Portfólio Pessoal
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Bem-vindo ao repositório do meu portfólio pessoal! Este projeto é um site que representa os projetos que já entreguei como freelancer, com detalhes sobre minhas habilidades, experiências e os trabalhos realizados.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+## Objetivo do Projeto
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+O objetivo deste site é apresentar meu portfólio de maneira profissional e acessível para possíveis clientes e parceiros, destacando os projetos que entreguei e as soluções que ofereci.
